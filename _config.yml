@@ -1,13 +1,13 @@
 # Site settings
 title:
-email: dr_hmsot@hotmail.com
+email: #dr_hmsot@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: jekyllrb
-whatsapp_username: MedicoMorales
-github_username: MedicoMorales
+twitter_username: #jekyllrb
+whatsapp_username: #MedicoMorales
+github_username: #MedicoMorales
 
 # Build settings
 markdown: kramdown
